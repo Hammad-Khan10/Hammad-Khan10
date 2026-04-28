@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-'''python
+```python
 class HammadKhan:
     def __init__(self):
         self.name        = "Muhammad Hammad Khan"
@@ -44,11 +44,11 @@ class HammadKhan:
 
 me = HammadKhan()
 me.say_hi()
-'''
+```
 
 <br clear="right"/>
 
-'''
+```
 
 ## 🛠️ Tech Stack & Tools
 
