@@ -31,7 +31,7 @@ class HammadKhan:
         self.location    = "Pakistan 🇵🇰"
         self.interests   = [
             "Data Analysis 📊",
-            "Data Science",
+            "Data Science 🕵🏻",
             "Machine Learning 🤖",
             "Artificial Intelligence 🧠",
             "RAG & LLM Systems 🔗",
@@ -143,3 +143,15 @@ me.say_hi()
 </div>
 
 ---
+
+<div align="center">
+
+*"In God we trust. All others must bring data."* — W. Edwards Deming
+
+<br/>
+
+⭐ **If you like what I build, consider starring a repo!** ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:090979,100:020024&height=130&section=footer&animation=fadeIn" />
+
+</div>
