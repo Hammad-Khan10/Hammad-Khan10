@@ -48,7 +48,7 @@ me.say_hi()
 
 <br clear="right"/>
 
-```
+---
 
 ## 🛠️ Tech Stack & Tools
 
