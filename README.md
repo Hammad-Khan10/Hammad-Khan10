@@ -5,12 +5,12 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=🎓+BSCS+Student+%7C+Data+Science+Specialization;🧠+Machine+Learning+%26+AI+Explorer;📊+Turning+Raw+Data+into+Real+Insights;🔗+Building+RAG+%26+LLM+Powered+Apps;🐍+Python+%7C+SQL+%7C+C%2B%2B+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93%20BSCS%20Student%20%7C%20Data%20Science%20Specialization;%F0%9F%A7%A0%20Machine%20Learning%20%26%20AI%20Explorer;%F0%9F%93%8A%20Turning%20Raw%20Data%20into%20Real%20Insights;%F0%9F%94%97%20Building%20RAG%20%26%20LLM%20Powered%20Apps;%F0%9F%90%8D%20Python%20%7C%20SQL%20%7C%20C%2B%2B%20Developer" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hammad-Khan10&label=👁️ Profile Views&color=00d4ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Hammad-Khan10&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=00d4ff&style=flat-square" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Hammad-Khan10?label=Followers&style=flat-square&color=00d4ff&labelColor=0a0a2e" />
 
@@ -22,29 +22,15 @@
 
 ## 🚀 About Me
 
-```python
-class HammadKhan:
-    def __init__(self):
-        self.name        = "Muhammad Hammad Khan"
-        self.username    = "Hammad-Khan10"
-        self.degree      = "BSCS — Data Science"
-        self.location    = "Pakistan 🇵🇰"
-        self.interests   = [
-            "Data Analysis 📊",
-            "Data Science 🕵🏻",
-            "Machine Learning 🤖",
-            "Artificial Intelligence 🧠",
-            "RAG & LLM Systems 🔗",
-        ]
-        self.languages   = ["Python", "C/C++", "SQL"]
-        self.motto       = "Data is the new oil — I refine it."
+### A CS student turning data into decisions.
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something intelligent. 🚀")
+I'm a **BSCS student specializing in Data Science**, constantly exploring the space where raw data meets intelligent systems. My academic journey has sharpened my understanding of core computer science concepts, while my personal projects have pulled me deep into the world of **Machine Learning, AI, and RAG-based applications**.
 
-me = HammadKhan()
-me.say_hi()
-```
+What drives me isn't just writing code — it's the moment an algorithm clicks, a model trains successfully, or a data visualization reveals something hidden. I thrive on understanding *why* things work, not just *how* to make them run.
+
+Whether it's querying databases, building ML pipelines, or experimenting with LLMs, I show up with full focus and an eagerness to keep learning. Currently based in **Pakistan 🇵🇰**, open to collaborations, research opportunities, and anything that challenges me to grow.
+
+> *"Data is not just numbers — it's the story of the world waiting to be told."*
 
 <br clear="right"/>
 
