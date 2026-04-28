@@ -5,14 +5,11 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93%20BSCS%20Student%20%7C%20Data%20Science%20Specialization;%F0%9F%A7%A0%20Machine%20Learning%20%26%20AI%20Explorer;%F0%9F%93%8A%20Turning%20Raw%20Data%20into%20Real%20Insights;%F0%9F%94%97%20Building%20RAG%20%26%20LLM%20Powered%20Apps;%F0%9F%90%8D%20Python%20%7C%20SQL%20%7C%20C%2B%2B%20Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93%20BSCS%20Student%20%7C%20Data%20Science%20Specialization;%F0%9F%A7%A0%20Machine%20Learning%20%26%20AI%20Explorer;%F0%9F%93%8A%20Turning%20Raw%20Data%20into%20Real%20Insights;%F0%9F%94%97%20Building%20RAG%20%26%20LLM%20Powered%20Apps" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hammad-Khan10&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=00d4ff&style=flat-square" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Hammad-Khan10?label=Followers&style=flat-square&color=00d4ff&labelColor=0a0a2e" />
 
 </div>
 
@@ -132,7 +129,6 @@ Whether it's querying databases, building ML pipelines, or experimenting with LL
 
 <div align="center">
 
-*"In God we trust. All others must bring data."* — W. Edwards Deming
 
 <br/>
 
